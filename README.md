@@ -4,6 +4,9 @@ This repo builds on the [r binder](https://github.com/binder-examples/r) and [ju
 
  - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/r_with_python/master?urlpath=lab)
  - Launch in RStudio: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/r_with_python/master?urlpath=rstudio)
+ 
+ Your First Machine Learning Project in R Step-By-Step
+by Jason Brownlee (Links to an external site.) on February 3, 2016 
 
 Example files included:
 
